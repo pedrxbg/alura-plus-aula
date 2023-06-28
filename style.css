@@ -193,6 +193,10 @@ body {
         display: block;
     }
 
+    .rodape {
+        text-align: center;
+    }
+
     .rodape__lista {
         display: block;
     }
