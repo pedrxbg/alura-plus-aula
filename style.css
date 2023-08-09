@@ -133,9 +133,9 @@ body {
     text-align: center;
     margin: 5rem 3rem;
 }
+
 .rodape__logo {
-   padding: 0 41.8rem 1rem;
-   margin-bottom: 2.5rem;
+    margin-left: 2em;
 }
 
 .rodape__lista {
